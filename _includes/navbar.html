@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="{{ site.baseurl }}/">Curso HTML</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <button aria-label="mmostrar/ocultar menú" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -13,8 +13,12 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link {% if page.url contains 'leccion-1' %}active{% endif %}"
-             href="{{ site.baseurl }}/leccion-1/">Lección 1</a>
+          <a class="nav-link {% if page.url contains 'aria-roles' %}active{% endif %}"
+             href="{{ site.baseurl }}/aria-roles/">Roles de ARIA</a>
+        </li>
+<li class="nav-item">
+          <a class="nav-link {% if page.url contains 'aria-labels' %}active{% endif %}"
+             href="{{ site.baseurl }}/aria-roles/">ARIA-label y otras yerbas</a>
         </li>
 
       </ul>
