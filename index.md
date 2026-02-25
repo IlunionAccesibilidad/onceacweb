@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Lección 1: Estructura HTML"
-permalink: /leccion-1/
+title: "Ejemplos de curso de accesibilidad"
+permalink: /
 ---
 
-<p>En esta lección repasamos la estructura mínima de un documento HTML5:</p>
+<p>En este sitio pondremos diversos ejemplos de accesibilidad</p>
 
 ```html
 <!doctype html>
