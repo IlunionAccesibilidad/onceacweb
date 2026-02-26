@@ -4,7 +4,7 @@ title: "Nuevos roles en ARIA 1.2"
 permalink: /new-roles
 ---
 
-# Página de ejemplo: Nuevos roles en ARIA 1.2
+
 
 ARIA 1.2 introdujo nuevos roles semánticos pensados para mejorar la accesibilidad del contenido textual, especialmente en documentos, editores enriquecidos y contextos donde se generan estructuras dinámicas.
 

@@ -4,7 +4,7 @@ title: "Ejemplos de atributos ARIA de nombre y descripción"
 permalink: /aria-labels
 ---
 
-# Página de ejemplo: Atributos ARIA de nombre y descripción
+
 
 Esta página muestra ejemplos prácticos de cómo usar correctamente los atributos ARIA que proporcionan **nombre accesible** y **descripciones adicionales**.  
 Incluye casos de buen uso y mal uso para entender cómo afectan a la experiencia con lectores de pantalla.

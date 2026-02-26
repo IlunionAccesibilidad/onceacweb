@@ -4,7 +4,7 @@ title: "Ejemplos de estados ARIA"
 permalink: /aria-states
 ---
 
-# Página de ejemplo: Estados ARIA
+
 
 Los estados ARIA permiten comunicar a los lectores de pantalla información dinámica o interactiva que no siempre es evidente visualmente.  
 Esta página muestra ejemplos de buen uso y mal uso de los estados más comunes.
