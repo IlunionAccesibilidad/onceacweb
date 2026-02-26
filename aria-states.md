@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 layout: default
 title: "Ejemplos de estados ARIA"
 permalink: /aria-states
