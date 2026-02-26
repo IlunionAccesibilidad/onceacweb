@@ -10,7 +10,7 @@ permalink: /aria-roles
   que los roles se interpreten correctamente por lectores de pantalla.
 -->
 
-# Ejemplos de roles ARIA
+# Página de ejemplo: Roles ARIA
 
 Esta página muestra ejemplos simples de roles ARIA aplicados a elementos HTML.  
 Cada ejemplo incluye:
