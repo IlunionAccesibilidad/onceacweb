@@ -3,9 +3,7 @@ layout: default
 title: "Ejemplos de roles ARIA"
 permalink: /aria-roles
 ---
-# Página de ejemplo: Roles ARIA básicos
 
-```markdown
 <!--  
   Ejemplo educativo para mostrar roles ARIA.
   Este archivo mezcla Markdown y HTML para asegurar
