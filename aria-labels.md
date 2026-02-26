@@ -51,15 +51,23 @@ Esto destruye el significado del enlace.
 ### ✔️ Versión correcta
 
 ```html
+<a aria-label="Descargar informe anual (Abre en ventana nueva)" href="documento.pdf" target="_blank">
+  Descargar informe anual
+  
+</a>
 <a href="documento.pdf" target="_blank">
   Descargar informe anual
-  <span aria-hidden="true"> (se abre en nueva ventana)</span>
+  <span class="visually-hidden"> abre en nueva ventana)</span>
 </a>
 ```
-
-<a href="#" target="_blank" style="color:blue; text-decoration:underline;">
-  Descargar informe anual <span aria-hidden="true">(se abre en nueva ventana)</span>
+<a aria-label="Descargar informe anual (Abre en ventana nueva)" href="documento.pdf" target="_blank" style="color:blue; text-decoration:underline;">
+  Descargar informe anual
+  
 </a>
+<a href="documento.pdf" target="_blank" style="color:blue; text-decoration:underline;">
+  Descargar informe anual
+  <span class="visually-hidden"> abre en nueva ventana)</span>
+
 
 **Por qué es correcto:**  
 El texto visible sigue siendo el nombre accesible.  
@@ -220,4 +228,3 @@ Oculta elementos a tecnologías de asistencia.
 
 ---
 
-¿Quieres que prepare otra página con ejemplos de **errores comunes de accesibilidad en formularios** o prefieres seguir con más atributos ARIA?
