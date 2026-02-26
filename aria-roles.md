@@ -149,5 +149,3 @@ Aquí mostramos ejemplos de widgets básicos: botones, casillas de verificación
 
 ---
 
-Fin del ejemplo.
-```
