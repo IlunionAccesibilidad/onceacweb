@@ -1,0 +1,14 @@
+- title: Inicio
+  url: /
+
+- title: ARIA
+  url: /aria/
+  children:
+    - title: Roles de ARIA
+      url: /aria-roles/
+    - title: ARIA-label y otras yerbas
+      url: /aria-labels/
+    - title: Estados de ARIA
+      url: /aria-states/
+    - title: Nuevos roles en ARIA 1.2
+      url: /new-roles/
