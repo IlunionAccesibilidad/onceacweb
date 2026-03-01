@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ejemplos de roles ARIA"
-permalink: /aria-roles
+permalink: /aria-roles/
 ---
 
 <!--  

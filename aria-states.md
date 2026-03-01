@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ejemplos de estados ARIA"
-permalink: /aria-states
+permalink: /aria-states/
 ---
 
 

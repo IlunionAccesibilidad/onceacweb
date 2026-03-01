@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ejemplos de atributos ARIA de nombre y descripción"
-permalink: /aria-labels
+permalink: /aria-labels/
 ---
 
 

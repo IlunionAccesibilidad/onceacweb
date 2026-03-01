@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Nuevos roles en ARIA 1.2"
-permalink: /new-roles
+permalink: /new-roles/
 ---
 
 
