@@ -1,5 +1,11 @@
 ---
+layout: default
 title: "Checklist WCAG 2.2 Nivel AA — Traducción al español"
+"
+permalink: /wcag-checklist/
+---
+
+---
 description: "Traducción al español del checklist WCAG 2.2 AA de DigitalA11Y. "
 layout: page
 ---
