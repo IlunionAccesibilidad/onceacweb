@@ -519,9 +519,8 @@ layout: page
 
 ---
 
-# Fin de la tabla WCAG 2.2 AA traducida
+# Nota
 
 ---
 > **Atribución obligatoria**  
 > Traducción del checklist “WCAG 2.2 AA Checklist” de **Raghavendra Satish Peri**, publicado originalmente en **DigitalA11Y** → https://digitala11y.com/  
-> Traducción publicada con permiso del autor.
