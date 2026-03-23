@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Checklist WCAG 2.2 Nivel AA — Traducción al español"
-"
+
 permalink: /wcag-checklist/
 ---
 
