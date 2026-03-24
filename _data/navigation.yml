@@ -1,5 +1,7 @@
 - title: Inicio
   url: /
+- title: Lista de comprobación
+  url: /wcag-checklist/
 
 - title: ARIA
   url: #
