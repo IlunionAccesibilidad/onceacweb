@@ -369,7 +369,9 @@ layout: page
 - Evitar activaciones accidentales.  
 - Asegurar separación entre elementos.
 
----# 3. Principio: Comprensible
+---
+
+# 3. Principio: Comprensible
 
 ---
 
